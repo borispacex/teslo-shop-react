@@ -1,7 +1,4 @@
 
-interface Props {
-
-}
 
 export const ProductPage = () => {
     return (
