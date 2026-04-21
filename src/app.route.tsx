@@ -56,7 +56,7 @@ export const appRouter = createHashRouter([
     },
     // Admin routes
     {
-        path: '/adm',
+        path: '/admin',
         element: <AdminLayout />,
         children: [
             {
